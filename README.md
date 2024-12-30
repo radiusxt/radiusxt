@@ -3,9 +3,9 @@
 I'm **Nathaniel**, a final-year Software Engineering student at the University of Queensland 🎓.
 
 ## 🌟 About Me
-- 📝 Currently working on my thesis and grinding LeetCode problems!
+- 📝 Currently working through my thesis and grinding LeetCode problems!
 - 💻 Passionate about software development, semiconductors and generative AI.  
-- 🎯 Hobbies/Interests: Photography 📸, Technology 💻, and Motorsport 🏎️.
+- 🎯 Hobbies/Interests: Photography 📸, Technology 💻, and Motorsport (especially F1) 🏎️.
 
 ## 🌐 Main Programming Languages
 - C
