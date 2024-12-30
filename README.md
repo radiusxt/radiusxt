@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**radiusxt/radiusxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nathaniel**, a final-year Software Engineering student at the University of Queensland 🎓.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 📝 Currently working on my thesis and grinding LeetCode problems!
+- 💻 Passionate about software development, semiconductors and generative AI.  
+- 🎯 Hobbies/Interests: Photography 📸, Technology 💻, and Motorsport 🏎️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Main Programming Languages
+- C
+- Java
+- JavaScript
+- Python
+- R
+
+## 🚀 Tools & Frameworks
+- Bootstrap
+- Jest
+- Node.js
+- PyTorch
+- React.js
+- React Native
+- Slack
+- TensorFlow
+
+## 🎯 Goals
+- 💡 Improve my skills at algorithms and data structures.
+- 💻 Landing a graduate role at a tech company.
