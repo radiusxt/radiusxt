@@ -18,13 +18,14 @@ I'm **Nathaniel**, a final-year Software Engineering student at the University o
 
 ## 🚀 Tools & Frameworks
 - Bootstrap
+- CLI
 - Jest
 - Node.js
 - PyTorch
 - React.js
 - React Native
+- RESTful API
 - Slack
-- TensorFlow
 
 ## 🎯 Goals
 - 💡 Improve my skills at algorithms and data structures.
