@@ -9,6 +9,8 @@ I'm **Nathaniel**, a final-year Software Engineering student at the University o
 
 ## 🌐 Main Programming Languages
 - C
+- CSS
+- HTML
 - Java
 - JavaScript
 - Python
