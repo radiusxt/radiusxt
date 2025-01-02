@@ -24,7 +24,7 @@ I'm **Nathaniel**, a final-year Software Engineering student at the University o
 - PyTorch
 - React.js
 - React Native
-- RESTful API
+- REST API
 - Slack
 
 ## 🎯 Goals
