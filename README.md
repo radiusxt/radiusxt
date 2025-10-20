@@ -1,32 +1,30 @@
-# Hi there! 👋
+# Hi! 👋
 
-I'm **Nathaniel**, a final-year Software Engineering student at the University of Queensland 🎓.
+I'm **Nathaniel**, a final-year Software Engineering student at the University of Queensland.
 
-## 🌟 About Me
-- 📝 Currently working through my thesis and grinding LeetCode problems!
-- 💻 Passionate about software development, semiconductors and generative AI.  
-- 🎯 Hobbies/Interests: Photography 📸, Technology 💻, and Motorsport (especially F1) 🏎️.
+## About Me
+- Currently grinding through my last semester.
+- Passionate about solving complex problems and making a tangible impact.  
 
-## 🌐 Main Programming Languages
-- C
-- CSS
-- HTML
-- Java
-- JavaScript
+## Programming Languages
 - Python
+- JavaScript/HTML/CSS
+- Java
+- C
 - R
 
-## 🚀 Tools & Frameworks
-- Bootstrap
-- CLI
-- Jest
-- Node.js
+## Dev Tools
+- AWS
 - PyTorch
-- React.js
-- React Native
-- RESTful API
-- Slack
+- Docker
+- Terraform
+- Git
 
-## 🎯 Goals
-- 💡 Improve my skills at algorithms and data structures.
-- 💻 Landing a graduate role at a tech company.
+## Frameworks
+
+- Node.js/React.js
+- React Native
+- Bootstrap
+- Jest
+- PostgreSQL
+- Flask
