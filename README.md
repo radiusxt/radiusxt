@@ -18,6 +18,7 @@ I'm **Nathaniel**, a final-year Software Engineering student at the University o
 - PyTorch
 - Docker
 - Terraform
+- Conda
 - Git
 
 ## Frameworks
