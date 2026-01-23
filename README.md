@@ -1,32 +1,33 @@
 # Hi! 👋
 
-I'm **Nathaniel**, a final-year Software Engineering student at the University of Queensland.
+I'm **Nathaniel**, a recent software engineering graduate from the University of Queensland.
 
 ## About Me
-- Currently grinding through my last semester.
-- Passionate about solving complex problems and making a tangible impact.  
+
+- Currently building my portfolio website.
+- Passionate about solving complex problems and making a tangible impact.
 
 ## Programming Languages
+
 - Python
-- JavaScript/HTML/CSS
-- Java
-- C
-- R
+- JavaScript
+- TypeScript
+- HTML
+- CSS/SCSS
 
 ## Dev Tools
+
 - AWS
-- PyTorch
-- Jupyter
+- GitHub
+- Anaconda/Miniconda
 - Docker
-- Terraform
-- Conda
-- Git
 
 ## Frameworks
 
-- Node.js/React.js
-- React Native
-- Bootstrap
-- Jest
+- Pytorch
+- Jupyter
+- Next.js
+- Node.js
+- React
 - PostgreSQL
 - Flask
