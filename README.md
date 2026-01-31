@@ -10,6 +10,7 @@ I'm **Nathaniel**, a recent software engineering graduate from the University of
 ## Programming Languages
 
 - Python
+- Bash
 - JavaScript
 - TypeScript
 - HTML
@@ -17,9 +18,11 @@ I'm **Nathaniel**, a recent software engineering graduate from the University of
 
 ## Dev Tools
 
-- AWS
+- VS Code
 - GitHub
 - Anaconda/Miniconda
+- Vercel
+- AWS
 - Docker
 
 ## Frameworks
@@ -27,7 +30,6 @@ I'm **Nathaniel**, a recent software engineering graduate from the University of
 - Pytorch
 - Jupyter
 - Next.js
-- Node.js
 - React
 - PostgreSQL
 - Flask
