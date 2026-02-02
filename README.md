@@ -4,7 +4,6 @@ I'm **Nathaniel**, a recent software engineering graduate from the University of
 
 ## About Me
 
-- Currently building my portfolio website.
 - Passionate about solving complex problems and making a tangible impact.
 
 ## Programming Languages
