@@ -1,34 +1,5 @@
 # Hi! 👋
 
-I'm **Nathaniel**, a recent software engineering graduate from the University of Queensland.
-
-## About Me
-
-- Passionate about solving complex problems and making a tangible impact.
-
-## Programming Languages
-
-- Python
-- Bash
-- JavaScript
-- TypeScript
-- HTML
-- CSS/SCSS
-
-## Dev Tools
-
-- VS Code
-- GitHub
-- Anaconda/Miniconda
-- Vercel
-- AWS
-- Docker
-
-## Frameworks
-
-- Pytorch
-- Jupyter
-- Next.js
-- React
-- PostgreSQL
-- Flask
+I’m Nathaniel, a Software Engineer specialising in full-stack development and machine learning.
+I build scalable, end-to-end applications and apply data-driven approaches to solve real-world problems.
+I'm currently learning C++ and CUDA in my spare time to build hardware skills and integrating existing ML frameworks to better understand and optimize real-world workloads.
